@@ -7,12 +7,12 @@ Download and intsall Python: https://www.python.org/downloads/
 Put in any Roblox shirt or pants URL or identification (ID) code and it will download the file. This does not steal your cookie, it is open source, inspect it yourself!
 
 If you just want to test, I recommend you use this URL or ID:
-https://www.roblox.com/catalog/17453116137/pink-aero
-17453116137
+`https://www.roblox.com/catalog/17453116137/pink-aero`
+or `17453116137`
 
 
-An ID is the numbers in the link that comes after "/catalog/" and before the name (/name/).
+An ID is the numbers in the link that comes after `/catalog/` and before the name (`/name/`).
 
-https://www.roblox.com/catalog/*17453116137*/pink-aero
+`https://www.roblox.com/catalog/*17453116137*/pink-aero`
 
-ROBLOX INSTALLER IS PROVIDED TO YOU IN THE FOLDER THAT WILL BE MADE IN C:\Users\HP\AppData\Local\Programs\ROBLOX-ASDL
+ROBLOX INSTALLER IS PROVIDED TO YOU IN THE FOLDER THAT WILL BE MADE IN `C:\Users\HP\AppData\Local\Programs\ROBLOX-ASDL`
