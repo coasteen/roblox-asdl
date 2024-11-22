@@ -11,9 +11,4 @@ If you just want to test, I recommend you use this URL or ID:
 `https://www.roblox.com/catalog/17453116137/pink-aero`
 or `17453116137`
 
-
-An ID is the number in the link that comes after `/catalog/` and before the name (`/name/`).
-
-`https://www.roblox.com/catalog/*17453116137*/pink-aero`
-
-ROBLOX INSTALLER IS PROVIDED TO YOU IN THE FOLDER THAT WILL BE MADE IN `C:\Users\HP\AppData\Local\Programs\ROBLOX-ASDL`
+An ID is the number in the **link** that comes after `/catalog/` and before the name (`/name/`).
