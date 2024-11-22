@@ -9,4 +9,4 @@ Put in any Roblox shirt or pants URL or identification (ID) code and it will dow
 
 An ID is the number in the **link** that comes after `/catalog/` and before the name (`/name/`).
 
-**I am not responsible for anything.**
+**I am not responsible for anything, I do not encourage stealing assets.**
