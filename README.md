@@ -7,8 +7,4 @@ Download and install Python: https://www.python.org/downloads/
 
 Put in any Roblox shirt or pants URL or identification (ID) code and it will download the file. This does not steal your cookie, it is open source, inspect it yourself!
 
-If you just want to test, I recommend you use this URL or ID:
-`https://www.roblox.com/catalog/17453116137/pink-aero`
-or `17453116137`
-
 An ID is the number in the **link** that comes after `/catalog/` and before the name (`/name/`).
